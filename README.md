@@ -1,2 +1,1 @@
-Hello Git!
-This is a new feature.
+This changes is from feature branch.
