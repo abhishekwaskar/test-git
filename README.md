@@ -1,1 +1,2 @@
-Hello, Git!
+Hello Git!
+This is a new feature.
